@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [minishell](https://github.com/crigonza/minishell), a collaborative project of 42 school.
 - 🌱 I’m currently learning C language at school 42.
-- 🌱 I’m currently learning [Angular](https://angular.io/).
+- 🌱 I’m currently learning [Angular](https://angular.io/) framework.
 - 📫 How to reach me:https://www.linkedin.com/in/cristobal-gonzalez-aguilar/
