@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Cristóbal 👋
 
 <!--
 **crigonza/crigonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [minishell](https://github.com/crigonza/minishell), a collaborative project of 42 school.
+- 🌱 I’m currently learning C language at school 42.
+- 🌱 I’m currently learning [Angular](https://angular.io/).
+- 📫 How to reach me:https://www.linkedin.com/in/cristobal-gonzalez-aguilar/
