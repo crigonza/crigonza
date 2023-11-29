@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [minishell](https://github.com/crigonza/minishell), a collaborative project of 42 school.
-- 🌱 I’m currently learning C language at school 42.
-- 🌱 I’m currently learning [Angular](https://angular.io/) framework.
+- 🔭 I’m currently working on [CPP Modules]([(https://github.com/crigonza/CPP-Module-04)]) at 42 school.
+- 🌱 I’m currently learning C and C++ language at school 42.
+- 🌱 I’m currently learning Google UI/UX design certification.
 - 📫 How to reach me:https://www.linkedin.com/in/cristobal-gonzalez-aguilar/
